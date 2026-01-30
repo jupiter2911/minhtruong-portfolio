@@ -83,24 +83,28 @@ export const portfolioData = {
       title: "Optimizing afatinib dosage: enhancing treatment outcomes and minimizing toxicities in advanced EGFR-mutated non-small cell lung cancer patients in Vietnam",
       journal: "Ther Adv Med Oncol",
       year: 2025,
+      note: "Co-author",
       link: "https://doi.org/10.1177/17588359251382665",
     },
     {
       title: "Excellent survival benefit achieved in patients with advanced-stage non-small cell lung cancer harboring epidermal growth factor receptor-G719X mutation treated by afatinib: real-world data from a multicenter study in Vietnam",
       journal: "Ther Adv Respir Dis",
       year: 2025,
+      note: "Co-author",
       link: "https://doi.org/10.1177/17534666251341747",
     },
     {
       title: "Real-World Evidence for First-Line afatinib in Advanced Non-Small Cell Lung Cancer With Uncommon Epidermal Growth Factor Receptor Mutations Other than G719X/L861Q/S768I",
       journal: "Cancer Control",
       year: 2025,
+      note: "Co-author",
       link: "https://doi.org/10.1177/10732748241296246",
     },
     {
       title: "Real-World Effectiveness and Safety of Ribociclib Plus Aromatase Inhibitors in Patients with HR+/HER2- Metastatic Breast Cancer: A Multicenter Experience from Vietnam",
       journal: "Asian Pac J Cancer Prev",
       year: 2025,
+      note: "Co-author",
       link: "https://doi.org/10.31557/apjcp.2024.26.11.4209",
     },
     {
