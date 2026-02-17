@@ -95,10 +95,10 @@ export const portfolioData = {
     },
     {
       title: "Real-World Evidence for First-Line afatinib in Advanced Non-Small Cell Lung Cancer With Uncommon Epidermal Growth Factor Receptor Mutations Other than G719X/L861Q/S768I",
-      journal: "Asia Pac J Clin Oncol",
+      journal: "Cancer Control",
       year: 2025,
       note: "Co-author",
-      link: "https://doi.org/10.1111/ajco.14147",
+      link: "https://doi.org/10.1177/10732748241296246",
     },
     {
       title: "Real-World Effectiveness and Safety of Ribociclib Plus Aromatase Inhibitors in Patients with HR+/HER2- Metastatic Breast Cancer: A Multicenter Experience from Vietnam",
