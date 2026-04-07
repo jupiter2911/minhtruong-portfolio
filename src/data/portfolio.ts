@@ -56,7 +56,7 @@ export const portfolioData = {
     headline: "Medical Oncologist | Oncology Researcher",
     title: "Dr. Minh Trương Công",
     location: "Hanoi, Vietnam",
-    bio: "Medical Oncologist specializing in thoracic and urogenital cancer treatments at K National Hospital. Dedicated to improving patient outcomes through evidence-based medicine and clinical research.",
+    bio: "Medical Oncologist specializing in thoracic and urogenital cancer treatments at Vietnam National Cancer Hospital (K Hospital). Dedicated to improving patient outcomes through evidence-based medicine and clinical research.",
     authorKeyword: "Truong",
   },
 
@@ -121,7 +121,7 @@ export const portfolioData = {
   employment: [
     {
       position: "Medical Oncologist",
-      institution: "K National Hospital, Hanoi",
+      institution: "Vietnam National Cancer Hospital (K Hospital), Hanoi",
       period: "September 2021 – Present",
       description: [
         "Specializing in Medical Oncology 2 department",
@@ -251,7 +251,7 @@ export const portfolioData = {
   ],
 
   contact: {
-    address: "K National Hospital, 30 Cau Buou, Thanh Tri District, Hanoi",
+    address: "Vietnam National Cancer Hospital (K Hospital), 30 Cau Buou street, Thanh Liet ward, Hanoi",
     phone: "+84 335 900 643",
     email: "truongcongminh.hmu@gmail.com",
     nationality: "Vietnam",
@@ -261,7 +261,7 @@ export const portfolioData = {
   seo: {
     title: "Dr. Minh Trương – Medical Oncologist & Oncology Researcher",
     description:
-      "Medical Oncologist specializing in thoracic and urogenital cancer treatments at K National Hospital, Hanoi. Oncology researcher with multiple peer-reviewed publications.",
+      "Medical Oncologist specializing in thoracic and urogenital cancer treatments at Vietnam National Cancer Hospital (K Hospital), Hanoi. Oncology researcher with multiple peer-reviewed publications.",
     url: "https://minhtruong-portfolio.vercel.app",
   },
 };

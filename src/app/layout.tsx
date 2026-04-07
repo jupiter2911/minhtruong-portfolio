@@ -58,7 +58,7 @@ const jsonLd = {
       jobTitle: "Medical Oncologist",
       worksFor: {
         "@type": "Hospital",
-        name: "K National Hospital",
+        name: "Vietnam National Cancer Hospital (K Hospital)",
         address: {
           "@type": "PostalAddress",
           addressLocality: "Hanoi",
