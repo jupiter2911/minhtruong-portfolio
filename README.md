@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Dr. Minh Trương Công — Academic Portfolio
+
+Personal academic portfolio for **Dr. Minh Trương Công**, Medical Oncologist at K National Hospital, Hanoi. Built with Next.js 16, Tailwind CSS v4, and TypeScript.
+
+## Features
+
+- **Research Interests** — Thoracic oncology, breast oncology, real-world evidence
+- **Publications** — 8 peer-reviewed publications (2021–2025) with DOI links, author list highlighting, and tag filtering
+- **Achievements** — ASCO ICRS Award, TLCS Research Investigator Award
+- **Academic Profiles** — ORCID and Google Scholar integration
+- **CV Page** — Print-optimized CV at `/cv`
+- **SEO** — Open Graph, Twitter Card, JSON-LD structured data, sitemap, robots.txt
+- **Dark Mode** — Full dark mode support
+- **Responsive** — Mobile-first with sticky navigation
+
+## Tech Stack
+
+| | |
+|---|---|
+| Framework | Next.js 16 (App Router) |
+| Language | TypeScript 5 |
+| Styling | Tailwind CSS v4 |
+| Icons | Lucide React |
+| Analytics | Vercel Analytics |
+| Deployment | Vercel |
 
 ## Getting Started
 
-First, run the development server:
-
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) to view the site.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Development
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run build    # Production build
+npm run lint     # Run ESLint
+npm run start    # Start production server
+```
 
-## Learn More
+## Data
 
-To learn more about Next.js, take a look at the following resources:
+All portfolio content is centralized in `src/data/portfolio.ts`. To update publications, education, achievements, or contact info, edit that single file.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Deployment
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Deployed automatically on [Vercel](https://vercel.com) on every push to `main`.
 
-## Deploy on Vercel
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/jupiter2911/minhtruong-portfolio)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+© Minh Trương Công. All rights reserved.
